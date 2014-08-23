@@ -12,7 +12,8 @@ to reach 0 hit points or below (an overkill) loses!
 The design of the program is modeled closely off of Eastern Washington University's provided structure.
 
 ## Design Document
-`// DungeonCharacter Object
+```
+// DungeonCharacter Object
 	// members
 	protected String _name;
 	protected String _class_type;
@@ -303,4 +304,5 @@ The design of the program is modeled closely off of Eastern Washington Universit
 // Main
 	1) Initalize a new HeroesVersusMonsters game object
 	2) Play the game
-	3) While user wants to go again, repeat steps 2 and 3`
+	3) While user wants to go again, repeat steps 2 and 3
+```
