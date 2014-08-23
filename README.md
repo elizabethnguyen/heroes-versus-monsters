@@ -1,5 +1,6 @@
 # Heroes Versus Monsters
-##Description/Requirements: I created a game, based off of the everpopular
+##Description/Requirements
+I created a game, based off of the everpopular
 'Dungeons and Dragons', named 'Heroes Versus Monsters'. This game will give the
 player an option of selecting from (currently) three different heroes, and they
 will fight a monster opponent chosen at random. Each hero has predetermined
@@ -11,8 +12,7 @@ to reach 0 hit points or below (an overkill) loses!
 The design of the program is modeled closely off of Eastern Washington University's provided structure.
 
 ## Design Document
-{% highlight java %}
-// DungeonCharacter Object
+`// DungeonCharacter Object
 	// members
 	protected String _name;
 	protected String _class_type;
@@ -303,5 +303,4 @@ The design of the program is modeled closely off of Eastern Washington Universit
 // Main
 	1) Initalize a new HeroesVersusMonsters game object
 	2) Play the game
-	3) While user wants to go again, repeat steps 2 and 3
-{% endhighlight %}
+	3) While user wants to go again, repeat steps 2 and 3`
